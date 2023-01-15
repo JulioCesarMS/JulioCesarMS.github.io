@@ -2,8 +2,9 @@
 
 It contains topics related to:
 
-- Statistics.
-- Stochastic processes
+- Statistics,
+- Time series,
+- Stochastic processes, and
 - Data science.
 
 [Creating Websites with R Markdown](https://bookdown.org/yihui/blogdown/)
