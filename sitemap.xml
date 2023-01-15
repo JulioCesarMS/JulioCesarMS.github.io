@@ -10,19 +10,43 @@
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://example.com/categories/</loc>
+    <lastmod>2023-01-14T21:13:14-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/post/confusionmatrix/</loc>
+    <lastmod>2023-01-14T21:13:14-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tag/data-science/</loc>
+    <lastmod>2023-01-14T21:13:14-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tag/machine-learning/</loc>
+    <lastmod>2023-01-14T21:13:14-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/post/</loc>
+    <lastmod>2023-01-14T21:13:14-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/category/python/</loc>
+    <lastmod>2023-01-14T21:13:14-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tag/statistics/</loc>
+    <lastmod>2023-01-14T21:13:14-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tags/</loc>
+    <lastmod>2023-01-14T21:13:14-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://example.com/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/categories/</loc>
-    <lastmod>2020-12-05T21:16:14-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://example.com/post/poissonprocess/</loc>
-    <lastmod>2020-12-05T21:16:14-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/post/</loc>
     <lastmod>2020-12-05T21:16:14-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -34,15 +58,7 @@
     <lastmod>2020-12-05T21:16:14-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/tag/statistics/</loc>
-    <lastmod>2020-12-05T21:16:14-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://example.com/tag/stochastic-processes/</loc>
-    <lastmod>2020-12-05T21:16:14-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/tags/</loc>
     <lastmod>2020-12-05T21:16:14-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -59,10 +75,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/post/pearsonrandomwalk/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/category/python/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
