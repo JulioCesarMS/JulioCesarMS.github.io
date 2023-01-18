@@ -1,4 +1,4 @@
-# Personal web created with blogdown in R
+# Personal web page created with blogdown in R
 
 It contains topics related to:
 
