@@ -1684,18 +1684,18 @@ $$&lt;/p&gt;
     </item>
     
     <item>
-      <title>Rpubs</title>
-      <link>https://example.com/project/project/external-project/</link>
+      <title></title>
+      <link>https://example.com/project/project/example/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/project/external-project/</guid>
+      <guid>https://example.com/project/project/example/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Web page</title>
-      <link>https://example.com/project/project/example/</link>
+      <title>Rpubs</title>
+      <link>https://example.com/project/project/external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/project/example/</guid>
+      <guid>https://example.com/project/project/external-project/</guid>
       <description></description>
     </item>
     
