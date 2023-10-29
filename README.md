@@ -8,3 +8,9 @@ It contains topics related to:
 - Data science.
 
 [Creating Websites with R Markdown](https://bookdown.org/yihui/blogdown/)
+
+
+commands:
+
+- blogdown::serve_site()
+- blogdown::build_site()
